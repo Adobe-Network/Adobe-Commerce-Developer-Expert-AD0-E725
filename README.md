@@ -60,9 +60,6 @@ flowchart LR
     style D fill:#1A3B5C,stroke:#00A4E4,stroke-width:1px,color:#FFF
 ```
 
-*Suggested learning progression; this diagram does not represent an official Adobe certification prerequisite or successor pathway.*
-
----
 
 ## Recommended Practice & Study Resources
 
